@@ -1,12 +1,4 @@
 <h1 align='center'>Auda</h1>
-<div align='center'>
-<a href="https://github.com/pythonicboat/auda/stargazers"><img src="https://img.shields.io/github/stars/pythonicboat/auda" alt="Stars Badge"/></a>
-<a href="https://github.com/pythonicboat/auda/network/members"><img src="https://img.shields.io/github/forks/pythonicboat/auda" alt="Forks Badge"/></a>
-<a href="https://github.com/pythonicboat/auda/pulls"><img src="https://img.shields.io/github/issues-pr/pythonicboat/auda" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/pythonicboat/auda/issues"><img src="https://img.shields.io/github/issues/pythonicboat/auda" alt="Issues Badge"/></a>
-<a href="https://github.com/pythonicboat/auda/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/pythonicboat/auda?color=2b9348"></a>
-<a href="https://github.com/pythonicboat/auda/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pythonicboat/auda?color=2b9348" alt="License Badge"/></a>
-</div>
 
 ## Version 6.0 (main)
 
@@ -18,9 +10,6 @@
 - premium features like 24/7 playback, queusaves, recommended playing are available
 - uses slash commands and context menus 
 - being used by 60K+ users 
-
-## Version 6.1 (alpha)
-
 - Tons of minor bug fixing
 - Fix for spotify command
 - Temporary removal of `afk` command
@@ -39,7 +28,3 @@ This program is free software: you can redistribute it and/or modify
 it under the terms of the [MIT General Public License](LICENSE.txt) as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
-
-## Privacy policy and Terms of Service
-
-Soon!
